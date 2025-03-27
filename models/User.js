@@ -1,0 +1,1 @@
+// User Schema (Name, email, password, gender)

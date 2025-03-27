@@ -1,0 +1,1 @@
+// Health data schema (BMI, weight, meal intake, etc.)
